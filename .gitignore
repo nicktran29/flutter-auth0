@@ -12,3 +12,4 @@ ios/Runner/GeneratedPluginRegistrant.*
 
 # example
 example/build
+*.iml
